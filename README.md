@@ -25,7 +25,7 @@ de programação orientada a objetos na linguagem Java.</p>
 ---
 
 
-## ⚙️ Aprendizagem
+## ⚙️ aprendizagem
 
 ### Objeto
 
@@ -134,7 +134,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Feito com ❤️ por Cassia Xavier 👋🏽 [Entre em contato!](https://www.linkedin.com/in/cassia-xavier-mendes-dos-santos/)
+Feito com ❤️ por Cassia Xavier 👋🏽 [Entre em contato!](linkedin.com/in/cássia-xavier-mendes-dos-santos)
 
 
 ---
