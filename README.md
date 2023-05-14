@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a>🔗 Conceitos de Java Orientado a objeto</a>
+    <a>🔗 Conceitos de Java Orientado a objeto  </a>
 </h1> 
 
 <h4 align="center"> 
@@ -8,8 +8,9 @@
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-aprendizagem">Aprendizagem</a> • 
- <a href="#-pilares-de-poo">Pilares da POO</a> • 
+ <a href="#-aprendizagem">Meu aprendizado</a> • 
+ <a href="#-pilares-de-poo">Pilares da POO</a> •
+ <a href="#-lembrete">Lembrete</a> • 
  <a href="#-tecnologias">Tecnologias</a> •
  <a href="#-autor">Autor</a> • 
  <a href="#user-content--licença">Licença</a>
@@ -19,18 +20,18 @@
 ## 💻 Sobre o projeto
 
 <p align="center"> :octocat: O repositório tem por intuito compartilhar os conhecimentos adquiridos durante a aprendizagem 
-de programação orientada a objetos na linguagem Java.</p>
+de programação orientada a objetos na linguagem Java pelo canal curso em vídeo do professor Guanabara.</p>
 
 
 ---
 
 
-## ⚙️ Aprendizagem
+## 📓 Meu aprendizado
 
-### Objeto
+###  ✏️ Objeto
 
-Na prática o objeto é uma insância de uma classe, mas também podemos definir como algo 'material / abstrato' que pode
-ser percebida por meio das suas características, comportamentos e estado atual. A partir disso definimos da
+Na prática o objeto é uma instância de uma classe, mas também podemos definir como algo "material ou abstrato" a qual 
+pode ser percebido por meio de suas características, comportamentos e estado atual. A partir disso, é definido da
 seguinte forma:
 
 - Atributos - características
@@ -49,7 +50,7 @@ seguinte forma:
 		metodo escrever();
 		metodo tampar();
 		
-💡Todo objeto vem de uma classe (considerado um molde)
+💡Todo objeto vem de uma classe (considerado um molde).
 
 #
 
@@ -59,7 +60,7 @@ Define os atributos e métodos comuns que serão compartilhados por um objeto al
 
 #
 
-### Visibilidade do objeto 
+### 👀 Visibilidade do objeto 
 
 Indica o nível de acesso aos componentes internos (atributos) de uma classe.
 
@@ -69,7 +70,7 @@ Indica o nível de acesso aos componentes internos (atributos) de uma classe.
 
 #
 
-### Métodos especiais
+### :stars: Métodos especiais
 
 - Métodos acessores: getter
 
@@ -79,9 +80,9 @@ Indica o nível de acesso aos componentes internos (atributos) de uma classe.
 
 ---
 
-## 🛠 Pilares da POO
+## :pushpin: Pilares da POO
 
-### Encapsulamento
+### 🔋 Encapsulamento
 Permite ocultar as partes independentes da implementação
 protegendo o usuário do código.
 
@@ -92,12 +93,12 @@ protegendo o usuário do código.
 
 ---
 
-### Herança
+### :family_man_girl_girl: Herança
 Permite basear uma nova classe na definição de outra classe previamente existente.
 
 ---
  
-## Polimorfismo
+## :busts_in_silhouette: Polimorfismo
 Permite que um mesmo nome represente vários comportamentos difirentes.
 
 ### Tipos de Polimorfismo
@@ -110,10 +111,8 @@ Permite que um mesmo nome represente vários comportamentos difirentes.
    	
 	Mesmo nome porém  assinaturas diferentes (overloading).
    
-### 🎲 Assinatura do método
+### ✍️ Assinatura do método
  São considerados os métodos com o mesmo nome e a mesma quantidade e tipo de parâmetros.
-	
-	
 	
  	public calMedia (float n1, float n2): float
 	public calcMedia (float v1, float v2): int
@@ -122,6 +121,17 @@ Permite que um mesmo nome represente vários comportamentos difirentes.
  
  ---
  
+## ✨ Lembrete 
+
+| Tipo | Função |
+| --- | --- |
+| Classe abstrata | Não pode ser instanciada só pode servir como progenitorora.  |	
+| Método abstrato | Declarado, porém não implementado na progenitora (Interface). |
+| Classe Final 	  | Não pode ser herdada por outra classe.		         |
+| Método Final 	  | Não pode ser sobrescrito pelas suas sub-classes, obrigatoriamente herdado. |  
+
+---
+
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -130,11 +140,15 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
+
 ## 📝 Licença
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Feito com ❤️ por Cassia Xavier 👋🏽 [Entre em contato!](https://www.linkedin.com/in/cássia-xavier-mendes-dos-santos)
+Feito com ❤️ por Cassia Xavier 👋🏽 Entre em contato!
+
+<a href="linkedin.com/in/cássia-xavier-mendes-dos-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" target="_blank"></a>  
+
 
 
 ---
