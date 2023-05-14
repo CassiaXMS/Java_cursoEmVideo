@@ -146,7 +146,7 @@ Este projeto esta sobe a licença [MIT](./LICENSE).
 
 [Faça o curso também]("#https://www.cursoemvideo.com/curso/java-poo/")
 
-<a href="#(https://www.cursoemvideo.com/curso/java-poo/)">Faça o curso também</a> 
+<a href="#https://www.cursoemvideo.com/curso/java-poo/">Faça o curso também</a> 
 
 Feito com ❤️ por Cassia Xavier 👋🏽 Entre em contato!
 
