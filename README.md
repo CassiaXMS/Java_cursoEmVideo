@@ -8,7 +8,7 @@
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-aprendizagem">Meu aprendizado</a> • 
+ <a href="#-meu-aprendizado">Meu aprendizado</a> • 
  <a href="#-pilares-de-poo">Pilares da POO</a> •
  <a href="#-lembrete">Lembrete</a> • 
  <a href="#-tecnologias">Tecnologias</a> •
