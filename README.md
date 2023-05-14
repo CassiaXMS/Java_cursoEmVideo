@@ -12,8 +12,7 @@
  <a href="#-pilares-da-poo">Pilares da POO</a> •
  <a href="#-lembrete">Lembrete</a> • 
  <a href="#-tecnologias">Tecnologias</a> •
- <a href="#-autor">Autor</a> • 
- <a href="#user-content--licença">Licença</a>
+ <a href="#-autor">Autor</a> 
 </p>
 
 
@@ -141,7 +140,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ---
 
 
-## 📝 Licença
+## 📝 Autor
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
