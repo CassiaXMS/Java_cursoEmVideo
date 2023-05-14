@@ -80,7 +80,7 @@ Indica o nível de acesso aos componentes internos (atributos) de uma classe.
 
 ---
 
-## :pushpin: Pilares da POO
+## 📌 Pilares da POO
 
 ### 🔋 Encapsulamento
 Permite ocultar as partes independentes da implementação
