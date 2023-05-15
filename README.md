@@ -144,7 +144,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-> Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://www.cursoemvideo.com/curso/java-poo/)
+> Caso queira fazer o curso entre aqui no site [curso de Java POO](https://www.cursoemvideo.com/curso/java-poo/)
 
 
 Feito com ❤️ por Cassia Xavier 👋🏽 Entre em contato!
