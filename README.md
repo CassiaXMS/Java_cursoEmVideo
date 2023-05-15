@@ -144,6 +144,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
+> Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://www.cursoemvideo.com/curso/java-poo/)
+
+
 Feito com ❤️ por Cassia Xavier 👋🏽 Entre em contato!
 
 <a href="linkedin.com/in/cássia-xavier-mendes-dos-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" target="_blank"></a>  
