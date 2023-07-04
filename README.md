@@ -149,7 +149,7 @@ Este projeto esta sobe a licença [MIT](./LICENSE).
 
 Feito com ❤️ por Cassia Xavier 👋🏽 Entre em contato!
 
-<a href="linkedin.com/in/cássia-xavier-mendes-dos-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" target="_blank"></a>  
+<a href="https://www.linkedin.com/in/c%C3%A1ssia-xavier-mendes-dos-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" target="_blank"></a>  
 
 
 
