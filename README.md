@@ -142,7 +142,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 📝 Autor
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
+Este projeto está sobre a licença [MIT](./LICENSE).
 
 > Caso queira fazer o curso entre aqui no site [curso de Java POO](https://www.cursoemvideo.com/curso/java-poo/)
 
